@@ -16,4 +16,16 @@ This research investigates whether combining **miconazole** (to promote remyelin
 ## 🧪 Methodology (Summary)
 - Subjects: 30 SJL mice (20 female, 10 male), chosen for susceptibility to EAE.  
 - Procedure: Induced EAE to simulate demyelination and optic neuritis.  
-- Treatment: Daily injection
+- Treatment: Daily injections of **miconazole (20mg/kg)** and **azathioprine (2mg/kg)** directly into the optic nerve.  
+- Evaluation: OCT (retinal scans) and MRI to monitor inflammation and remyelination.  
+
+## 🌟 Importance
+If successful, this approach could provide a pathway to new therapies not only for optic neuritis, but also for other **autoimmune demyelinating diseases** such as multiple sclerosis.
+
+## 👥 Authors
+- Samuel Drake  
+- Alexandre Chen  
+- Julian Bourgoin  
+
+---
+*Finalist project at the Ottawa Science & Innovation Competition 2024.*
